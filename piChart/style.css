@@ -1,0 +1,15 @@
+#inputHandler {
+    font-size: 40px;
+    margin: 20px;
+    width: 400px;
+    cursor: pointer;
+
+}
+
+.pichart {
+    margin: 20px 15px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-image: conic-gradient(orange var(--parcentage), #70e453 0);
+}
